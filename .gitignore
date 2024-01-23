@@ -137,7 +137,8 @@ demo.py
 artifacts
 prediction_artifacts
 predictions
-test.ipynb
-
+upload.ipynb
+upload_data_to_db
+constant
 #test
 #$$
